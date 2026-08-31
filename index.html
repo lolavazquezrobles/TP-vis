@@ -36,17 +36,20 @@
 
     .introduccion {
       max-width: 850px;
-      margin: 0 auto 60px auto;
+      margin: 0 auto 70px auto;
       font-size: 17px;
       line-height: 1.6;
       text-align: center;
       color: #444;
     }
 
+    .seccion {
+      margin-bottom: 90px;
+    }
+
     h2 {
       font-size: 22px;
-      margin-top: 50px;
-      margin-bottom: 10px;
+      margin-bottom: 12px;
     }
 
     .descripcion {
@@ -59,7 +62,7 @@
     .grafico {
       background-color: white;
       padding: 20px;
-      margin-bottom: 25px;
+      margin-bottom: 12px;
     }
 
     .grafico img {
@@ -69,11 +72,20 @@
       margin: auto;
     }
 
+    .fuente-grafico {
+      font-size: 13px;
+      color: #888;
+      margin-top: 8px;
+      margin-bottom: 0;
+      font-style: italic;
+    }
+
     .conclusion {
-      font-size: 17px;
+      font-size: 16px;
       line-height: 1.5;
-      margin-top: 25px;
-      margin-bottom: 60px;
+      margin-top: 20px;
+      margin-bottom: 25px;
+      color: #444;
     }
 
   </style>
@@ -95,60 +107,76 @@
     <p class="introduccion">
       Este trabajo analiza información sobre las películas que vi y valoré
       en Letterboxd. A partir de estos datos busco visualizar mis hábitos de
-      consumo, los géneros que más aparecen entre las películas vistas y
-      comparar mis valoraciones personales con las puntuaciones promedio
-      de otros usuarios de la plataforma.
+      consumo.
     </p>
 
 
     <!-- RAWGRAPHS -->
 
-    <h2>Géneros de las películas vistas</h2>
+    <section class="seccion">
 
-    <p class="descripcion">
-      Visualización realizada con RAWGraphs. El gráfico muestra la cantidad
-      de películas vistas según su género. El tamaño de cada círculo representa
-      la cantidad de películas que pertenece a cada categoría.
-    </p>
+      <h2>Géneros de las películas vistas</h2>
 
-    <div class="grafico">
-      <img src="viz.svg"
-           alt="Cantidad de películas vistas según género">
-    </div>
+      <p class="descripcion">
+        El gráfico muestra la cantidad de películas vistas según su género.
+        El tamaño de cada círculo representa la cantidad de películas
+        que pertenece a cada género.
+      </p>
+
+      <div class="grafico">
+        <img src="viz.svg"
+             alt="Cantidad de películas vistas según género">
+      </div>
+
+      <p class="fuente-grafico">
+        Visualización realizada con RAWGraphs.
+      </p>
+
+    </section>
 
 
     <!-- DATAWRAPPER -->
 
-    <p class="descripcion">
-      La siguiente visualización fue realizada con Datawrapper y compara
-      la puntuación que le di a cada película con la valoración promedio
-      de los usuarios de Letterboxd.
-    </p>
+    <section class="seccion">
 
-    <div class="grafico">
+      <p class="descripcion">
+        Este gráfico compara la puntuación que le di a cada película
+        con la valoración promedio de los usuarios de Letterboxd.
+      </p>
+      
+      <p class="conclusion">
+        En conclusion, mi valoración tiende a ser mayor que la valoración
+        promedio de los usuarios en Letterboxd.
+      </p>
 
-      <div style="min-height:658px" id="datawrapper-vis-zuo7B">
-        <script type="text/javascript"
-                defer
-                src="https://datawrapper.dwcdn.net/zuo7B/embed.js"
-                charset="utf-8"
-                data-target="#datawrapper-vis-zuo7B">
-        </script>
+      <div class="grafico">
 
-        <noscript>
-          <img src="https://datawrapper.dwcdn.net/zuo7B/full.png"
-               alt="Mi opinión VS el público (Bullet Bars)">
-        </noscript>
+        <div style="min-height:658px" id="datawrapper-vis-zuo7B">
+
+          <script type="text/javascript"
+                  defer
+                  src="https://datawrapper.dwcdn.net/zuo7B/embed.js"
+                  charset="utf-8"
+                  data-target="#datawrapper-vis-zuo7B">
+          </script>
+
+          <noscript>
+            <img src="https://datawrapper.dwcdn.net/zuo7B/full.png"
+                 alt="Mi opinión VS el público (Bullet Bars)">
+          </noscript>
+
+        </div>
+
       </div>
 
-    </div>
+      <p class="fuente-grafico">
+        Visualización realizada con Datawrapper.
+      </p>
 
+      
 
-    <p class="conclusion">
-      <strong>Conclusión:</strong>
-      En general, mi valoración tiende a ser mayor que la valoración
-      promedio de los usuarios en Letterboxd.
-    </p>
+    </section>
+
 
   </div>
 
