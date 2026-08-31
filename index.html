@@ -31,24 +31,49 @@
       text-align: center;
       font-size: 17px;
       color: #666;
-      margin-bottom: 50px;
+      margin-bottom: 35px;
+    }
+
+    .introduccion {
+      max-width: 850px;
+      margin: 0 auto 60px auto;
+      font-size: 17px;
+      line-height: 1.6;
+      text-align: center;
+      color: #444;
     }
 
     h2 {
       font-size: 22px;
+      margin-top: 50px;
+      margin-bottom: 10px;
+    }
+
+    .descripcion {
+      font-size: 16px;
+      line-height: 1.5;
+      color: #555;
       margin-bottom: 25px;
     }
 
     .grafico {
       background-color: white;
       padding: 20px;
+      margin-bottom: 25px;
+    }
+
+    .grafico img {
+      width: 100%;
+      max-width: 850px;
+      display: block;
+      margin: auto;
     }
 
     .conclusion {
       font-size: 17px;
       line-height: 1.5;
-      margin-top: 30px;
-      margin-bottom: 50px;
+      margin-top: 25px;
+      margin-bottom: 60px;
     }
 
   </style>
@@ -65,21 +90,64 @@
     </p>
 
 
-    <h2>Primer grafico --> hecho con Datawrapper</h2>
+    <!-- INTRODUCCIÓN -->
 
+    <p class="introduccion">
+      Este trabajo analiza información sobre las películas que vi y valoré
+      en Letterboxd. A partir de estos datos busco visualizar mis hábitos de
+      consumo, los géneros que más aparecen entre las películas vistas y
+      comparar mis valoraciones personales con las puntuaciones promedio
+      de otros usuarios de la plataforma.
+    </p>
+
+
+    <!-- RAWGRAPHS -->
+
+    <h2>Géneros de las películas vistas</h2>
+
+    <p class="descripcion">
+      Visualización realizada con RAWGraphs. El gráfico muestra la cantidad
+      de películas vistas según su género. El tamaño de cada círculo representa
+      la cantidad de películas que pertenece a cada categoría.
+    </p>
+
+    <div class="grafico">
+      <img src="viz.svg"
+           alt="Cantidad de películas vistas según género">
+    </div>
+
+
+    <!-- DATAWRAPPER -->
+
+    <p class="descripcion">
+      La siguiente visualización fue realizada con Datawrapper y compara
+      la puntuación que le di a cada película con la valoración promedio
+      de los usuarios de Letterboxd.
+    </p>
 
     <div class="grafico">
 
-      <div style="min-height:658px" id="datawrapper-vis-zuo7B"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/zuo7B/embed.js" charset="utf-8" data-target="#datawrapper-vis-zuo7B"></script><noscript><img src="https://datawrapper.dwcdn.net/zuo7B/full.png" alt="Mi opinión VS el publico (Bullet Bars)" /></noscript></div>
+      <div style="min-height:658px" id="datawrapper-vis-zuo7B">
+        <script type="text/javascript"
+                defer
+                src="https://datawrapper.dwcdn.net/zuo7B/embed.js"
+                charset="utf-8"
+                data-target="#datawrapper-vis-zuo7B">
+        </script>
 
+        <noscript>
+          <img src="https://datawrapper.dwcdn.net/zuo7B/full.png"
+               alt="Mi opinión VS el público (Bullet Bars)">
+        </noscript>
       </div>
 
     </div>
 
 
     <p class="conclusion">
-      <strong>Conclusión:</strong> En general, mi valoración tiende a ser mayor 
-      que la valoración promedio de los usuarios en Letterboxd.
+      <strong>Conclusión:</strong>
+      En general, mi valoración tiende a ser mayor que la valoración
+      promedio de los usuarios en Letterboxd.
     </p>
 
   </div>
