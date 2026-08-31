@@ -1,1 +1,387 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="805" height="600"><rect width="805" height="600" x="0" y="0" fill="#FFFFFF" id="background"/><g transform="translate(20,20)" id="viz"><g id="nodes"><g transform="translate(383.5,281)"><path id="p_943.5" d="M-5.143516556418883e-14,280A280,280,0,1,1,5.143516556418883e-14,-280A280,280,0,1,1,-5.143516556418883e-14,280Z" fill="none" stroke="#ccc"/></g><g transform="translate(303.0149235007191,277.7036816044055)" id="Drama"><path id="p_697.4639729854881" d="M-2.1629473183367198e-14,117.74536788036345A117.74536788036345,117.74536788036345,0,1,1,2.1629473183367198e-14,-117.74536788036345A117.74536788036345,117.74536788036345,0,1,1,-2.1629473183367198e-14,117.74536788036345Z" fill="#d174df" stroke="none"/></g><g transform="translate(520.8507151060962,277.7036816044055)" id="Thriller"><path id="p_896.6518904085843" d="M-1.8203914269132267e-14,99.09749369808253A99.09749369808253,99.09749369808253,0,1,1,1.8203914269132267e-14,-99.09749369808253A99.09749369808253,99.09749369808253,0,1,1,-1.8203914269132267e-14,99.09749369808253Z" fill="#80e2de" stroke="none"/></g><g transform="translate(429.782516085741,454.85449186091876)" id="Romance"><path id="p_982.7345016447423" d="M-1.8203914269132267e-14,99.09749369808253A99.09749369808253,99.09749369808253,0,1,1,1.8203914269132267e-14,-99.09749369808253A99.09749369808253,99.09749369808253,0,1,1,-1.8203914269132267e-14,99.09749369808253Z" fill="#fa749f" stroke="none"/></g><g transform="translate(429.5292271601909,104.01933853287943)" id="Comedia"><path id="p_628.6872559874643" d="M-1.7660390901487255e-14,96.13869029439404A96.13869029439404,96.13869029439404,0,1,1,1.7660390901487255e-14,-96.13869029439404A96.13869029439404,96.13869029439404,0,1,1,-1.7660390901487255e-14,96.13869029439404Z" fill="#f0b16b" stroke="none"/></g><g transform="translate(268.8993768245577,98.5957461701876)" id="Terror"><path id="p_430.08488946735173" d="M-1.168125059538077e-14,63.58976647260643A63.58976647260643,63.58976647260643,0,1,1,1.168125059538077e-14,-63.58976647260643A63.58976647260643,63.58976647260643,0,1,1,-1.168125059538077e-14,63.58976647260643Z" fill="#f5ccb9" stroke="none"/></g><g transform="translate(282.0824143615366,443.1927139978929)" id="Ciencia ficción"><path id="p_772.3444735066266" d="M-8.830195450743629e-15,48.069345147197026A48.069345147197026,48.069345147197026,0,1,1,8.830195450743629e-15,-48.069345147197026A48.069345147197026,48.069345147197026,0,1,1,-8.830195450743629e-15,48.069345147197026Z" fill="#adf7e5" stroke="none"/></g><g transform="translate(562.8875007025435,142.3619607954137)" id="Acción"><path id="p_745.878735538712" d="M-7.647173580725765e-15,41.62927404075485A41.62927404075485,41.62927404075485,0,1,1,7.647173580725765e-15,-41.62927404075485A41.62927404075485,41.62927404075485,0,1,1,-7.647173580725765e-15,41.62927404075485Z" fill="#bdd2f7" stroke="none"/></g><g transform="translate(564.9861405275902,412.37564215182056)" id="Crimen"><path id="p_1017.9910567201656" d="M-7.647173580725765e-15,41.62927404075485A41.62927404075485,41.62927404075485,0,1,1,7.647173580725765e-15,-41.62927404075485A41.62927404075485,41.62927404075485,0,1,1,-7.647173580725765e-15,41.62927404075485Z" fill="#f5a7af" stroke="none"/></g><g transform="translate(225.13511946126982,397.36510906837543)" id="Musical"><path id="p_645.5349011032438" d="M-4.4150977253718145e-15,24.034672573598513A24.034672573598513,24.034672573598513,0,1,1,4.4150977253718145e-15,-24.034672573598513A24.034672573598513,24.034672573598513,0,1,1,-4.4150977253718145e-15,24.034672573598513Z" fill="#f6cefa" stroke="none"/></g><g transform="translate(212.707944192173,167.11990979269805)" id="Coming of age"><path id="p_402.86252655846954" d="M-4.4150977253718145e-15,24.034672573598513A24.034672573598513,24.034672573598513,0,1,1,4.4150977253718145e-15,-24.034672573598513A24.034672573598513,24.034672573598513,0,1,1,-4.4150977253718145e-15,24.034672573598513Z" fill="#f7f5b2" stroke="none"/></g><g transform="translate(609.0912090663047,190.407319957438)" id="Aventura"><path id="p_822.5332015973413" d="M-4.4150977253718145e-15,24.034672573598513A24.034672573598513,24.034672573598513,0,1,1,4.4150977253718145e-15,-24.034672573598513A24.034672573598513,24.034672573598513,0,1,1,-4.4150977253718145e-15,24.034672573598513Z" fill="#dffad8" stroke="none"/></g><g transform="translate(610.4374617344054,363.61790836397586)" id="Suspenso"><path id="p_997.0900426719797" d="M-4.4150977253718145e-15,24.034672573598513A24.034672573598513,24.034672573598513,0,1,1,4.4150977253718145e-15,-24.034672573598513A24.034672573598513,24.034672573598513,0,1,1,-4.4150977253718145e-15,24.034672573598513Z" fill="#dbdeee" stroke="none"/></g></g><g id="labels"><g transform="translate(303.0149235007191,277.7036816044055)"><text text-anchor="middle" dominant-baseline="text-before-edge" transform="translate(0,-5.59375)"><tspan x="0" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;">Drama</tspan></text></g><g transform="translate(520.8507151060962,277.7036816044055)"><text text-anchor="middle" dominant-baseline="text-before-edge" transform="translate(0,-5.59375)"><tspan x="0" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;">Thriller</tspan></text></g><g transform="translate(429.782516085741,454.85449186091876)"><text text-anchor="middle" dominant-baseline="text-before-edge" transform="translate(0,-5.59375)"><tspan x="0" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;">Romance</tspan></text></g><g transform="translate(429.5292271601909,104.01933853287943)"><text text-anchor="middle" dominant-baseline="text-before-edge" transform="translate(0,-5.59375)"><tspan x="0" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;">Comedia</tspan></text></g><g transform="translate(268.8993768245577,98.5957461701876)"><text text-anchor="middle" dominant-baseline="text-before-edge" transform="translate(0,-5.59375)"><tspan x="0" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;">Terror</tspan></text></g><g transform="translate(282.0824143615366,443.1927139978929)"><text text-anchor="middle" dominant-baseline="text-before-edge" transform="translate(0,-5.59375)"><tspan x="0" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;">Ciencia ficción</tspan></text></g><g transform="translate(562.8875007025435,142.3619607954137)"><text text-anchor="middle" dominant-baseline="text-before-edge" transform="translate(0,-5.59375)"><tspan x="0" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;">Acción</tspan></text></g><g transform="translate(564.9861405275902,412.37564215182056)"><text text-anchor="middle" dominant-baseline="text-before-edge" transform="translate(0,-5.59375)"><tspan x="0" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;">Crimen</tspan></text></g><g transform="translate(225.13511946126982,397.36510906837543)"><text text-anchor="middle" dominant-baseline="text-before-edge" transform="translate(0,-5.59375)"><tspan x="0" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;">Musical</tspan></text></g><g transform="translate(212.707944192173,167.11990979269805)"><text text-anchor="middle" dominant-baseline="text-before-edge" transform="translate(0,-5.59375)"><tspan x="0" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;">Coming of age</tspan></text></g><g transform="translate(609.0912090663047,190.407319957438)"><text text-anchor="middle" dominant-baseline="text-before-edge" transform="translate(0,-5.59375)"><tspan x="0" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;">Aventura</tspan></text></g><g transform="translate(610.4374617344054,363.61790836397586)"><text text-anchor="middle" dominant-baseline="text-before-edge" transform="translate(0,-5.59375)"><tspan x="0" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;">Suspenso</tspan></text></g></g></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="805"
+   height="600"
+   version="1.1"
+   id="svg13"
+   sodipodi:docname="viz.svg"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs13" />
+  <sodipodi:namedview
+     id="namedview13"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.70734741"
+     inkscape:cx="382.41463"
+     inkscape:cy="270.72977"
+     inkscape:window-width="1289"
+     inkscape:window-height="592"
+     inkscape:window-x="0"
+     inkscape:window-y="37"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg13" />
+  <rect
+     width="805"
+     height="600"
+     x="0"
+     y="0"
+     fill="#FFFFFF"
+     id="background" />
+  <g
+     transform="translate(20,20)"
+     id="viz">
+    <g
+       id="nodes">
+      <g
+         transform="translate(383.5,281)"
+         id="g1">
+        <path
+           id="p_943.5"
+           d="M-5.143516556418883e-14,280A280,280,0,1,1,5.143516556418883e-14,-280A280,280,0,1,1,-5.143516556418883e-14,280Z"
+           fill="none"
+           stroke="#ccc" />
+      </g>
+      <g
+         transform="translate(303.0149235007191,277.7036816044055)"
+         id="Drama">
+        <path
+           id="p_697.4639729854881"
+           d="M-2.1629473183367198e-14,117.74536788036345A117.74536788036345,117.74536788036345,0,1,1,2.1629473183367198e-14,-117.74536788036345A117.74536788036345,117.74536788036345,0,1,1,-2.1629473183367198e-14,117.74536788036345Z"
+           fill="#d174df"
+           stroke="none" />
+      </g>
+      <g
+         transform="translate(520.8507151060962,277.7036816044055)"
+         id="Thriller">
+        <path
+           id="p_896.6518904085843"
+           d="M-1.8203914269132267e-14,99.09749369808253A99.09749369808253,99.09749369808253,0,1,1,1.8203914269132267e-14,-99.09749369808253A99.09749369808253,99.09749369808253,0,1,1,-1.8203914269132267e-14,99.09749369808253Z"
+           fill="#80e2de"
+           stroke="none" />
+      </g>
+      <g
+         transform="translate(429.782516085741,454.85449186091876)"
+         id="Romance">
+        <path
+           id="p_982.7345016447423"
+           d="M-1.8203914269132267e-14,99.09749369808253A99.09749369808253,99.09749369808253,0,1,1,1.8203914269132267e-14,-99.09749369808253A99.09749369808253,99.09749369808253,0,1,1,-1.8203914269132267e-14,99.09749369808253Z"
+           fill="#fa749f"
+           stroke="none" />
+      </g>
+      <g
+         transform="translate(429.5292271601909,104.01933853287943)"
+         id="Comedia">
+        <path
+           id="p_628.6872559874643"
+           d="M-1.7660390901487255e-14,96.13869029439404A96.13869029439404,96.13869029439404,0,1,1,1.7660390901487255e-14,-96.13869029439404A96.13869029439404,96.13869029439404,0,1,1,-1.7660390901487255e-14,96.13869029439404Z"
+           fill="#f0b16b"
+           stroke="none" />
+      </g>
+      <g
+         transform="translate(268.8993768245577,98.5957461701876)"
+         id="Terror">
+        <path
+           id="p_430.08488946735173"
+           d="M-1.168125059538077e-14,63.58976647260643A63.58976647260643,63.58976647260643,0,1,1,1.168125059538077e-14,-63.58976647260643A63.58976647260643,63.58976647260643,0,1,1,-1.168125059538077e-14,63.58976647260643Z"
+           fill="#f5ccb9"
+           stroke="none" />
+      </g>
+      <g
+         transform="translate(282.0824143615366,443.1927139978929)"
+         id="Ciencia ficción">
+        <path
+           id="p_772.3444735066266"
+           d="M-8.830195450743629e-15,48.069345147197026A48.069345147197026,48.069345147197026,0,1,1,8.830195450743629e-15,-48.069345147197026A48.069345147197026,48.069345147197026,0,1,1,-8.830195450743629e-15,48.069345147197026Z"
+           fill="#adf7e5"
+           stroke="none" />
+      </g>
+      <g
+         transform="translate(562.8875007025435,142.3619607954137)"
+         id="Acción">
+        <path
+           id="p_745.878735538712"
+           d="M-7.647173580725765e-15,41.62927404075485A41.62927404075485,41.62927404075485,0,1,1,7.647173580725765e-15,-41.62927404075485A41.62927404075485,41.62927404075485,0,1,1,-7.647173580725765e-15,41.62927404075485Z"
+           fill="#bdd2f7"
+           stroke="none" />
+      </g>
+      <g
+         transform="translate(564.9861405275902,412.37564215182056)"
+         id="Crimen">
+        <path
+           id="p_1017.9910567201656"
+           d="M-7.647173580725765e-15,41.62927404075485A41.62927404075485,41.62927404075485,0,1,1,7.647173580725765e-15,-41.62927404075485A41.62927404075485,41.62927404075485,0,1,1,-7.647173580725765e-15,41.62927404075485Z"
+           fill="#f5a7af"
+           stroke="none" />
+      </g>
+      <g
+         transform="translate(225.13511946126982,397.36510906837543)"
+         id="Musical">
+        <path
+           id="p_645.5349011032438"
+           d="M-4.4150977253718145e-15,24.034672573598513A24.034672573598513,24.034672573598513,0,1,1,4.4150977253718145e-15,-24.034672573598513A24.034672573598513,24.034672573598513,0,1,1,-4.4150977253718145e-15,24.034672573598513Z"
+           fill="#f6cefa"
+           stroke="none" />
+      </g>
+      <g
+         transform="translate(212.707944192173,167.11990979269805)"
+         id="Coming of age">
+        <path
+           id="p_402.86252655846954"
+           d="M-4.4150977253718145e-15,24.034672573598513A24.034672573598513,24.034672573598513,0,1,1,4.4150977253718145e-15,-24.034672573598513A24.034672573598513,24.034672573598513,0,1,1,-4.4150977253718145e-15,24.034672573598513Z"
+           fill="#f7f5b2"
+           stroke="none" />
+      </g>
+      <g
+         transform="translate(609.0912090663047,190.407319957438)"
+         id="Aventura">
+        <path
+           id="p_822.5332015973413"
+           d="M-4.4150977253718145e-15,24.034672573598513A24.034672573598513,24.034672573598513,0,1,1,4.4150977253718145e-15,-24.034672573598513A24.034672573598513,24.034672573598513,0,1,1,-4.4150977253718145e-15,24.034672573598513Z"
+           fill="#dffad8"
+           stroke="none" />
+      </g>
+      <g
+         transform="translate(610.4374617344054,363.61790836397586)"
+         id="Suspenso">
+        <path
+           id="p_997.0900426719797"
+           d="M-4.4150977253718145e-15,24.034672573598513A24.034672573598513,24.034672573598513,0,1,1,4.4150977253718145e-15,-24.034672573598513A24.034672573598513,24.034672573598513,0,1,1,-4.4150977253718145e-15,24.034672573598513Z"
+           fill="#dbdeee"
+           stroke="none" />
+      </g>
+    </g>
+    <g
+       id="labels"
+       transform="translate(-3.6274473,-3.3725861)">
+      <g
+         transform="translate(610.43746,363.61791)"
+         id="g13">
+        <text
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           id="text1"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:46.6667px;font-family:'Snell Roundhand';-inkscape-font-specification:'Snell Roundhand, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;dominant-baseline:text-before-edge;text-anchor:middle"
+           x="-311.2493"
+           y="-101.74313"><tspan
+             x="-311.2493"
+             y="-101.74313"
+             dy="0"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:46.66669846px;font-family:'Snell Roundhand';-inkscape-font-specification:'Snell Roundhand, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+             id="tspan1">Drama</tspan></text>
+        <text
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           id="text2"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:40px;font-family:'Snell Roundhand';-inkscape-font-specification:'Snell Roundhand, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;dominant-baseline:text-before-edge;text-anchor:middle"
+           x="-89.586746"
+           y="-102.46205"><tspan
+             x="-89.586746"
+             y="-102.46205"
+             dy="0"
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:40px;font-family:'Snell Roundhand';-inkscape-font-specification:'Snell Roundhand, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+             id="tspan2">Thriller</tspan></text>
+        <text
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           id="text3"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:40px;font-family:'Snell Roundhand';-inkscape-font-specification:'Snell Roundhand, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;dominant-baseline:text-before-edge;text-anchor:middle"
+           x="-181.13075"
+           y="76.624496"><tspan
+             x="-181.13075"
+             y="76.624496"
+             dy="0"
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:40px;font-family:'Snell Roundhand';-inkscape-font-specification:'Snell Roundhand, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+             id="tspan3">Romance</tspan></text>
+        <text
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           id="text4"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:40px;font-family:'Snell Roundhand';-inkscape-font-specification:'Snell Roundhand, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;dominant-baseline:text-before-edge;text-anchor:middle"
+           x="-183.2235"
+           y="-275.20926"><tspan
+             x="-183.2235"
+             y="-275.20926"
+             dy="0"
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:40px;font-family:'Snell Roundhand';-inkscape-font-specification:'Snell Roundhand, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+             id="tspan4">Comedia</tspan></text>
+        <text
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           id="text8"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:24px;font-family:'Snell Roundhand';-inkscape-font-specification:'Snell Roundhand, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           x="-44.250992"
+           y="38.265663"><tspan
+             x="-44.250992"
+             y="38.265663"
+             dy="0"
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:24px;font-family:'Snell Roundhand';-inkscape-font-specification:'Snell Roundhand, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+             id="tspan8">Crimen</tspan></text>
+        <text
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           id="text5"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:29.3333px;font-family:'Snell Roundhand';-inkscape-font-specification:'Snell Roundhand, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;dominant-baseline:text-before-edge;text-anchor:middle"
+           x="-342.20834"
+           y="-274.53278"><tspan
+             x="-342.20834"
+             y="-274.53278"
+             dy="0"
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:29.33333333px;font-family:'Snell Roundhand';-inkscape-font-specification:'Snell Roundhand, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+             id="tspan5">Terror</tspan></text>
+        <text
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           id="text6"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:13.3333px;font-family:'Snell Roundhand';-inkscape-font-specification:'Snell Roundhand, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;dominant-baseline:text-before-edge;text-anchor:middle"
+           x="-326.92761"
+           y="74.478928"><tspan
+             x="-326.92761"
+             y="74.478928"
+             dy="0"
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:13.33333333px;font-family:'Snell Roundhand';-inkscape-font-specification:'Snell Roundhand, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+             id="tspan6">Ciencia ficción</tspan></text>
+        <text
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           id="text7"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:24px;font-family:'Snell Roundhand';-inkscape-font-specification:'Snell Roundhand, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           x="-46.806225"
+           y="-230.48175"><tspan
+             x="-46.806225"
+             y="-230.48175"
+             dy="0"
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:24px;font-family:'Snell Roundhand';-inkscape-font-specification:'Snell Roundhand, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+             id="tspan7">Acción</tspan></text>
+        <text
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           id="text9"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:13.3333px;font-family:'Snell Roundhand';-inkscape-font-specification:'Snell Roundhand, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;dominant-baseline:text-before-edge;text-anchor:middle;stroke-width:0.778165"
+           x="-399.06152"
+           y="28.339725"
+           transform="scale(0.96509539,1.036167)"><tspan
+             x="-399.06152"
+             y="28.339725"
+             dy="0"
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:13.33333336px;font-family:'Snell Roundhand';-inkscape-font-specification:'Snell Roundhand, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.778165"
+             id="tspan9">Musical</tspan></text>
+        <text
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           id="text10"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:9.60271px;font-family:'Snell Roundhand';-inkscape-font-specification:'Snell Roundhand, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;dominant-baseline:text-before-edge;text-anchor:middle;stroke-width:0.720205"
+           x="-403.28952"
+           y="-202.28793"
+           transform="scale(0.98159519,1.0187499)"><tspan
+             sodipodi:role="line"
+             id="tspan19"
+             x="-403.28952"
+             y="-202.28793"
+             style="stroke-width:0.720205">Coming</tspan><tspan
+             sodipodi:role="line"
+             id="tspan20"
+             x="-403.28952"
+             y="-190.28455"
+             style="stroke-width:0.720205">of age</tspan></text>
+        <text
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           id="text11"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:10.6667px;font-family:'Snell Roundhand';-inkscape-font-specification:'Snell Roundhand, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;dominant-baseline:text-before-edge;text-anchor:middle;display:inline"
+           x="0.36015472"
+           y="-176.07167"><tspan
+             x="0.36015472"
+             y="-176.07167"
+             dy="0"
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:10.6667px;font-family:'Snell Roundhand';-inkscape-font-specification:'Snell Roundhand, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+             id="tspan11">Aventura</tspan></text>
+        <text
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           id="text12"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12px;font-family:'Snell Roundhand';-inkscape-font-specification:'Snell Roundhand, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;dominant-baseline:text-before-edge;text-anchor:middle"
+           y="-3.498204"
+           x="2.6318266"><tspan
+             x="2.6318266"
+             y="-3.498204"
+             dy="0"
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12px;font-family:'Snell Roundhand';-inkscape-font-specification:'Snell Roundhand, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+             id="tspan12">Suspenso</tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24px;font-family:Didot;-inkscape-font-specification:'Didot, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;fill:#000000;stroke-width:1.43367"
+         x="329.16553"
+         y="303.22421"
+         id="text13"
+         transform="scale(0.94632547,1.0567189)"><tspan
+           sodipodi:role="line"
+           id="tspan13"
+           x="329.16553"
+           y="303.22421"
+           style="stroke-width:1.43367;-inkscape-font-specification:'Didot, Bold';font-family:Didot;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:24px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">24</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;font-family:Didot;-inkscape-font-specification:'Didot, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;fill:#000000"
+         x="269.56622"
+         y="123.66214"
+         id="text14"><tspan
+           sodipodi:role="line"
+           id="tspan14"
+           x="269.56622"
+           y="123.66214">7</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;font-family:Didot;-inkscape-font-specification:'Didot, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;fill:#000000"
+         x="425.11951"
+         y="134.4969"
+         id="text15"><tspan
+           sodipodi:role="line"
+           id="tspan15"
+           x="425.11951"
+           y="134.4969">16</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:Didot;-inkscape-font-specification:'Didot, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;fill:#000000;stroke-width:1.71093"
+         x="528.90997"
+         y="306.0571"
+         id="text16"
+         transform="scale(0.97602721,1.0245616)"><tspan
+           sodipodi:role="line"
+           id="tspan16"
+           x="528.90997"
+           y="306.0571"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:Didot;-inkscape-font-specification:'Didot, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.71093">17</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:Didot;-inkscape-font-specification:'Didot, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;fill:#000000"
+         x="435.86044"
+         y="492.72073"
+         id="text17"><tspan
+           sodipodi:role="line"
+           id="tspan17"
+           x="435.86044"
+           y="492.72073">17</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;font-family:Didot;-inkscape-font-specification:'Didot, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;fill:#000000"
+         x="289.76456"
+         y="462.45023"
+         id="text18"><tspan
+           sodipodi:role="line"
+           id="tspan18"
+           x="289.76456"
+           y="462.45023">4</tspan></text>
+    </g>
+  </g>
+</svg>
