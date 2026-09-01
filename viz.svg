@@ -21,15 +21,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="0.70734741"
-     inkscape:cx="382.41463"
-     inkscape:cy="270.72977"
-     inkscape:window-width="1289"
-     inkscape:window-height="592"
+     inkscape:zoom="1.0666285"
+     inkscape:cx="383.4512"
+     inkscape:cy="250.79021"
+     inkscape:window-width="1470"
+     inkscape:window-height="920"
      inkscape:window-x="0"
-     inkscape:window-y="37"
+     inkscape:window-y="36"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg13" />
+     inkscape:current-layer="labels" />
   <rect
      width="805"
      height="600"
@@ -206,13 +206,14 @@
            text-anchor="middle"
            dominant-baseline="text-before-edge"
            id="text4"
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:40px;font-family:'Snell Roundhand';-inkscape-font-specification:'Snell Roundhand, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;dominant-baseline:text-before-edge;text-anchor:middle"
-           x="-183.2235"
-           y="-275.20926"><tspan
-             x="-183.2235"
-             y="-275.20926"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:32.6199px;font-family:'Snell Roundhand';-inkscape-font-specification:'Snell Roundhand, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;dominant-baseline:text-before-edge;text-anchor:middle;stroke-width:0.815499"
+           x="-337.71432"
+           y="-279.50623"
+           transform="scale(1.0053742,0.9946545)"><tspan
+             x="-337.71432"
+             y="-279.50623"
              dy="0"
-             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:40px;font-family:'Snell Roundhand';-inkscape-font-specification:'Snell Roundhand, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:32.6199px;font-family:'Snell Roundhand';-inkscape-font-specification:'Snell Roundhand, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.815499"
              id="tspan4">Comedia</tspan></text>
         <text
            text-anchor="middle"
@@ -230,13 +231,14 @@
            text-anchor="middle"
            dominant-baseline="text-before-edge"
            id="text5"
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:29.3333px;font-family:'Snell Roundhand';-inkscape-font-specification:'Snell Roundhand, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;dominant-baseline:text-before-edge;text-anchor:middle"
-           x="-342.20834"
-           y="-274.53278"><tspan
-             x="-342.20834"
-             y="-274.53278"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:34.3878px;font-family:'Snell Roundhand';-inkscape-font-specification:'Snell Roundhand, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;dominant-baseline:text-before-edge;text-anchor:middle;stroke-width:1.17231"
+           x="-194.32585"
+           y="-253.99945"
+           transform="scale(0.92409467,1.0821402)"><tspan
+             x="-194.32585"
+             y="-253.99945"
              dy="0"
-             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:29.33333333px;font-family:'Snell Roundhand';-inkscape-font-specification:'Snell Roundhand, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:34.3878px;font-family:'Snell Roundhand';-inkscape-font-specification:'Snell Roundhand, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:1.17231"
              id="tspan5">Terror</tspan></text>
         <text
            text-anchor="middle"
@@ -329,27 +331,27 @@
            id="tspan13"
            x="329.16553"
            y="303.22421"
-           style="stroke-width:1.43367;-inkscape-font-specification:'Didot, Bold';font-family:Didot;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:24px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">24</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24px;font-family:Didot;-inkscape-font-specification:'Didot, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.43367">35</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;font-family:Didot;-inkscape-font-specification:'Didot, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;fill:#000000"
-         x="269.56622"
-         y="123.66214"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:Didot;-inkscape-font-specification:'Didot, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;fill:#000000"
+         x="438.14264"
+         y="133.21069"
          id="text14"><tspan
            sodipodi:role="line"
            id="tspan14"
-           x="269.56622"
-           y="123.66214">7</tspan></text>
+           x="438.14264"
+           y="133.21069">25</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;font-family:Didot;-inkscape-font-specification:'Didot, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;fill:#000000"
-         x="425.11951"
-         y="134.4969"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:Didot;-inkscape-font-specification:'Didot, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;fill:#000000"
+         x="265.63046"
+         y="126.24747"
          id="text15"><tspan
            sodipodi:role="line"
            id="tspan15"
-           x="425.11951"
-           y="134.4969">16</tspan></text>
+           x="265.63046"
+           y="126.24747">16</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:Didot;-inkscape-font-specification:'Didot, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;fill:#000000;stroke-width:1.71093"
@@ -361,7 +363,7 @@
            id="tspan16"
            x="528.90997"
            y="306.0571"
-           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:Didot;-inkscape-font-specification:'Didot, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.71093">17</tspan></text>
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:Didot;-inkscape-font-specification:'Didot, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.71093">31</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:Didot;-inkscape-font-specification:'Didot, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;fill:#000000"
@@ -371,17 +373,17 @@
            sodipodi:role="line"
            id="tspan17"
            x="435.86044"
-           y="492.72073">17</tspan></text>
+           y="492.72073">21</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;font-family:Didot;-inkscape-font-specification:'Didot, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;fill:#000000"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:Didot;-inkscape-font-specification:'Didot, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;fill:#000000"
          x="289.76456"
          y="462.45023"
          id="text18"><tspan
            sodipodi:role="line"
            id="tspan18"
            x="289.76456"
-           y="462.45023">4</tspan></text>
+           y="462.45023">8</tspan></text>
     </g>
   </g>
 </svg>
