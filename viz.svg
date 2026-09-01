@@ -22,12 +22,12 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="1.0666285"
-     inkscape:cx="383.4512"
-     inkscape:cy="250.79021"
+     inkscape:cx="383.45122"
+     inkscape:cy="250.79022"
      inkscape:window-width="1470"
-     inkscape:window-height="920"
+     inkscape:window-height="806"
      inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-y="37"
      inkscape:window-maximized="0"
      inkscape:current-layer="labels" />
   <rect
@@ -164,7 +164,7 @@
        id="labels"
        transform="translate(-3.6274473,-3.3725861)">
       <g
-         transform="translate(610.43746,363.61791)"
+         transform="translate(610.43746,376.74338)"
          id="g13">
         <text
            text-anchor="middle"
@@ -176,7 +176,7 @@
              x="-311.2493"
              y="-101.74313"
              dy="0"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:46.66669846px;font-family:'Snell Roundhand';-inkscape-font-specification:'Snell Roundhand, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:46.6667px;font-family:'Snell Roundhand';-inkscape-font-specification:'Snell Roundhand, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
              id="tspan1">Drama</tspan></text>
         <text
            text-anchor="middle"
@@ -250,7 +250,7 @@
              x="-326.92761"
              y="74.478928"
              dy="0"
-             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:13.33333333px;font-family:'Snell Roundhand';-inkscape-font-specification:'Snell Roundhand, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:13.3333px;font-family:'Snell Roundhand';-inkscape-font-specification:'Snell Roundhand, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
              id="tspan6">Ciencia ficción</tspan></text>
         <text
            text-anchor="middle"
@@ -275,7 +275,7 @@
              x="-399.06152"
              y="28.339725"
              dy="0"
-             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:13.33333336px;font-family:'Snell Roundhand';-inkscape-font-specification:'Snell Roundhand, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.778165"
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:13.3333px;font-family:'Snell Roundhand';-inkscape-font-specification:'Snell Roundhand, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.778165"
              id="tspan9">Musical</tspan></text>
         <text
            text-anchor="middle"
