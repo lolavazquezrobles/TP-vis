@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -9,60 +10,122 @@
   <style>
 
     body {
-      font-family: Arial, sans-serif;
       margin: 0;
-      background-color: #fafafa;
-      color: #222;
+      background-color: #fffaf7;
+      color: #332d33;
+      font-family: Baskerville, "Times New Roman", serif;
     }
 
     .contenedor {
-      max-width: 1200px;
+      max-width: 1100px;
       margin: auto;
-      padding: 50px 60px;
+      padding: 65px 50px;
     }
 
+
+    /* TITULO PRINCIPAL */
+
     h1 {
+      font-family: "Snell Roundhand", "Apple Chancery", cursive;
       text-align: center;
-      font-size: 30px;
-      margin-bottom: 12px;
+      font-size: 46px;
+      font-weight: normal;
+      color: #4b374d;
+      margin-bottom: 8px;
     }
 
     .tematica {
       text-align: center;
-      font-size: 17px;
-      color: #666;
-      margin-bottom: 35px;
+      font-family: Baskerville, serif;
+      font-style: italic;
+      font-size: 19px;
+      color: #846f7d;
+      margin-bottom: 60px;
     }
+
+
+    /* INTRO */
 
     .introduccion {
-      max-width: 850px;
-      margin: 0 auto 70px auto;
-      font-size: 17px;
-      line-height: 1.6;
+      max-width: 780px;
+      margin: auto;
       text-align: center;
-      color: #444;
+      font-family: Baskerville, serif;
+      font-size: 19px;
+      line-height: 1.7;
+      color: #514951;
     }
 
+
+    /* ESTADISTICAS */
+
+    .estadisticas {
+      display: flex;
+      justify-content: center;
+      gap: 25px;
+      margin-top: 45px;
+      margin-bottom: 120px;
+    }
+
+    .dato {
+      background-color: white;
+      padding: 24px 38px;
+      border-radius: 16px;
+      text-align: center;
+      min-width: 150px;
+    }
+
+    .dato strong {
+      display: block;
+      font-family: Baskerville, serif;
+      font-style: italic;
+      font-size: 37px;
+      font-weight: normal;
+      color: #c45f92;
+      margin-bottom: 3px;
+    }
+
+    .dato span {
+      font-family: Baskerville, serif;
+      font-size: 16px;
+      color: #756b73;
+    }
+
+
+    /* SECCIONES */
+
     .seccion {
-      margin-bottom: 90px;
+      padding-top: 65px;
+      margin-bottom: 130px;
+      border-top: 1px solid #eadfe5;
     }
 
     h2 {
-      font-size: 22px;
-      margin-bottom: 12px;
+      font-family: Baskerville, serif;
+      font-style: italic;
+      font-size: 32px;
+      font-weight: normal;
+      color: #4b374d;
+      margin-top: 0;
+      margin-bottom: 14px;
     }
 
     .descripcion {
-      font-size: 16px;
-      line-height: 1.5;
-      color: #555;
-      margin-bottom: 25px;
+      max-width: 950px;
+      font-family: Baskerville, serif;
+      font-size: 18px;
+      line-height: 1.7;
+      color: #514951;
+      margin-bottom: 32px;
     }
+
+
+    /* GRAFICOS */
 
     .grafico {
       background-color: white;
-      padding: 20px;
-      margin-bottom: 12px;
+      padding: 25px;
+      border-radius: 18px;
     }
 
     .grafico img {
@@ -72,46 +135,92 @@
       margin: auto;
     }
 
+
+    /* CREDITOS */
+
     .fuente-grafico {
-      font-size: 13px;
-      color: #888;
-      margin-top: 8px;
-      margin-bottom: 0;
+      font-family: Baskerville, serif;
       font-style: italic;
+      font-size: 14px;
+      color: #9b8d96;
+      margin-top: 12px;
     }
 
-    .conclusion {
-      font-size: 16px;
-      line-height: 1.5;
-      margin-top: 20px;
-      margin-bottom: 25px;
-      color: #444;
+
+    /* CELULAR */
+
+    @media (max-width: 700px) {
+
+      .contenedor {
+        padding: 35px 20px;
+      }
+
+      h1 {
+        font-size: 38px;
+      }
+
+      .estadisticas {
+        flex-direction: column;
+      }
+
+      .dato {
+        min-width: auto;
+      }
+
     }
 
   </style>
+
 </head>
+
 
 <body>
 
   <div class="contenedor">
 
+
+    <!-- ENCABEZADO -->
+
     <h1>Trabajo práctico - Visualización de Información</h1>
 
     <p class="tematica">
-      Temática: datos sobre películas vistas y valoradas en Letterboxd
+      Datos sobre películas vistas y valoradas en Letterboxd
     </p>
 
 
-    <!-- INTRODUCCIÓN -->
+    <!-- INTRO -->
 
     <p class="introduccion">
-      Este trabajo analiza información sobre las películas que vi y valoré
-      en Letterboxd. A partir de estos datos busco visualizar mis hábitos de
-      consumo.
+      Este trabajo analiza las películas que vi y valoré en Letterboxd.
+      A partir de estos datos busco visualizar mis hábitos de consumo,
+      los géneros que más aparecen y cómo se comparan mis valoraciones
+      con las del resto de los usuarios.
     </p>
 
 
-    <!-- RAWGRAPHS -->
+    <!-- ESTADISTICAS -->
+
+    <div class="estadisticas">
+
+      <div class="dato">
+        <strong>153</strong>
+        <span>películas</span>
+      </div>
+
+      <div class="dato">
+        <strong>111</strong>
+        <span>directores</span>
+      </div>
+
+      <div class="dato">
+        <strong>1960–2025</strong>
+        <span>años de estreno</span>
+      </div>
+
+    </div>
+
+
+    <!-- PRIMER GRAFICO -->
 
     <section class="seccion">
 
@@ -124,8 +233,11 @@
       </p>
 
       <div class="grafico">
-        <img src="viz.svg"
-             alt="Cantidad de películas vistas según género">
+
+        <img
+          src="viz.svg"
+          alt="Cantidad de películas vistas según género">
+
       </div>
 
       <p class="fuente-grafico">
@@ -135,29 +247,46 @@
     </section>
 
 
-    <!-- DATAWRAPPER -->
+    <!-- SEGUNDO GRAFICO -->
 
     <section class="seccion">
 
       <p class="descripcion">
         Este gráfico compara la puntuación que le di a cada película
-        con la valoración promedio de los usuarios de Letterboxd. En conclusion, mi valoración tiende a ser mayor que la valoración
-        promedio de los usuarios en Letterboxd.
+        con la valoración promedio de los usuarios de Letterboxd.
+        En general, mi valoración tiende a ser mayor que la valoración
+        promedio de los usuarios.
       </p>
-      
+
 
       <div class="grafico">
 
-        <div style="min-height:658px" id="datawrapper-vis-zuo7B"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/zuo7B/embed.js" charset="utf-8" data-target="#datawrapper-vis-zuo7B"></script><noscript><img src="https://datawrapper.dwcdn.net/zuo7B/full.png" alt="Mi opinión VS la del publico (Bullet Bars)" /></noscript></div>
+        <div style="min-height:658px" id="datawrapper-vis-zuo7B">
+
+          <script
+            type="text/javascript"
+            defer
+            src="https://datawrapper.dwcdn.net/zuo7B/embed.js"
+            charset="utf-8"
+            data-target="#datawrapper-vis-zuo7B">
+          </script>
+
+          <noscript>
+
+            <img
+              src="https://datawrapper.dwcdn.net/zuo7B/full.png"
+              alt="Mi opinión VS la del público">
+
+          </noscript>
+
         </div>
 
       </div>
 
+
       <p class="fuente-grafico">
         Visualización realizada con Datawrapper.
       </p>
-
-      
 
     </section>
 
@@ -165,4 +294,5 @@
   </div>
 
 </body>
+
 </html>
